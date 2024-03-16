@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Yakko Majuri</title>
+    <link>https://recessfeed.com</link>
+    <description>Yakko's personal website</description>
+    <lastBuildDate>Wed, 16 Mar 2024 12:00:00 GMT</lastBuildDate>
+    <webMaster>yakko.majuri@protonmail.com</webMaster>
+    <image>
+        <url>https://recessfeed.com/favicon.ico</url>
+    </image>
+    <item>
+        <title>Recess Manifesto-ish</title>
+        <link>https://github.com/yakkomajuri/recess/blob/main/manifesto-ish.md#recess-manifesto-ish</link>
+        <pubDate>2024-03-15</pubDate>
+        <description>What Recess is and what it hopes to be</description>
+    </item>
+</channel>
+</rss>
