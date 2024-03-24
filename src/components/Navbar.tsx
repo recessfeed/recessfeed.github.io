@@ -55,8 +55,8 @@ export const Navbar = () => {
               >
                 {/* <Button variant="ghost">Features</Button>
                 <Button variant="ghost">Pricing</Button> */}
-                <Button as="a" href="https://github.com/recessfeed/recess/issues" variant="ghost">Contact</Button>
-                <Button as="a" href="https://github.com/recessfeed/recess" variant="ghost">GitHub</Button>
+                <Button as="a" href="https://github.com/yakkomajuri/recess/issues" variant="ghost">Contact</Button>
+                <Button as="a" href="https://github.com/yakkomajuri/recess" variant="ghost">GitHub</Button>
                 <Button as="a" href="https://app.recessfeed.com/login" variant="ghost">Sign in</Button>
               </HStack>
               <Button colorScheme="brand" size="sm">
