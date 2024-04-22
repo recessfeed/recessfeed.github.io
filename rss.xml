@@ -10,6 +10,12 @@
         <url>https://recessfeed.com/favicon.ico</url>
     </image>
     <item>
+        <title>New: Recess comments widget</title>
+        <link>https://github.com/yakkomajuri/recess-comments-widget/blob/main/README.md</link>
+        <pubDate>2024-04-22</pubDate>
+        <description>Announcing a new feature for Recess: a "serverless" comments widget for blogs and personal websites.</description>
+    </item>
+    <item>
         <title>Recess Manifesto-ish</title>
         <link>https://github.com/yakkomajuri/recess/blob/main/manifesto-ish.md#recess-manifesto-ish</link>
         <pubDate>2024-03-15</pubDate>
