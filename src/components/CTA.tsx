@@ -72,7 +72,7 @@ export const CTA = () => {
               _hover={{
                 bg: "brand.50",
               }}
-              href="https://github.com/recess/recess/issues"
+              href="https://github.com/yakkomajuri/recess/issues"
 
             >
               Give feedback
